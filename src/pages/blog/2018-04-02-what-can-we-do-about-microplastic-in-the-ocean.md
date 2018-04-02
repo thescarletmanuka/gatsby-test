@@ -1,8 +1,8 @@
 ---
 templateKey: blog-post
 title: What can we do about microplastic in the ocean?
-date: 2018-03-08T15:53:00+13:00
-description: 2 changes we can do ourselves and 3 things we can lobby for.
+date: 2018-03-08T02:53:00.000Z
+description: 2 changes we can do ourselves and 3 things we can lobby for!
 tags:
   - Christian living
   - environment
