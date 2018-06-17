@@ -1,7 +1,7 @@
 ---
 templateKey: article
 title: My Hope is in God
-date: 2014-05-06T15:04:10.000Z
+published: 2014-05-06T15:04:10.000Z
 description: written for an ANZMES competition on things which give us hope
 ---
 One day, medical and scientific people will probably develop a cure for ME/CFS. However, they will never be able to do what God has already done. He has taken this illness, this bad thing that is such a distortion of the way He made the world to be, and used it for good. He has used it as a discipline that has shaped my character: making me more humble, patient and empathetic than I was before. He has also used it to give me a window into other peoples' lives, so that I can be with them in their suffering. When they see my suffering and vulnerability they aren't scared of me judging them: they're willing to open up and tell me their struggles and fears. And He has used it to encourage me to dedicate my life more fully to making the world more the way He wants it to be: my restricted energy has given me much clearer priorities than I had before.

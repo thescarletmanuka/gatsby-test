@@ -1,7 +1,7 @@
 ---
 templateKey: article
 title: My Favourite Number
-date: 2016-05-15T15:04:10.000Z
+published: 2016-05-15T15:04:10.000Z
 description: written for another ANZMES competition on things which give us hope
 ---
 Sometimes I feel like I live by numbers! There's numbers I pace myself by: _three_ daily up-times, _five_ daily sessions of complete rest. The numbers that control my diet: _three_ low GI meals a day, _one_ dairy snack a day, _two_ fish snacks a week. The numbers that govern my activities: _30_ minutes in the sun every day, _three_ exercise sessions per week, heart rate below _111_ beats per minute.

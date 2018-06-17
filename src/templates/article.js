@@ -9,13 +9,12 @@ export const ArticleTemplate = ({
   content,
   contentComponent,
   title,
-  helmet,
 }) => {
   const PostContent = contentComponent || Content
 
   return (
     <section className="section">
-      {helmet || ''}
+      <Helmet title={`${title}`} />
       <div className="container content">
         <div className="columns">
           <div className="column is-10 is-offset-1">
@@ -34,7 +33,6 @@ ArticleTemplate.propTypes = {
   content: PropTypes.string.isRequired,
   contentComponent: PropTypes.func,
   title: PropTypes.string,
-  helmet: PropTypes.instanceOf(Helmet),
 }
 
 const Article = ({ data }) => {
@@ -44,7 +42,6 @@ const Article = ({ data }) => {
     <ArticleTemplate
       content={post.html}
       contentComponent={HTMLContent}
-      helmet={<Helmet title={`${post.frontmatter.title}`} />}
       title={post.frontmatter.title}
     />
   )
@@ -64,7 +61,7 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        date(formatString: "MMMM DD, YYYY")
+        edited(formatString: "MMMM DD, YYYY")
         title
       }
     }
