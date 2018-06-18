@@ -50,7 +50,7 @@ export default class ArticleIndexPage extends React.Component {
               <dl>
                 <dt className="has-text-weight-semibold">{articles[0].node.frontmatter.pub_year}</dt>
                 {articles.map(({node: article}) => ( 
-                  <dd className="container">
+                  <dd className="container article-list-item">
                     <Link
                       xclassName="has-text-primary"
                       to={article.fields.slug}
@@ -69,6 +69,7 @@ export default class ArticleIndexPage extends React.Component {
                   </dd>
                 ))}
               </dl>
+              &nbsp; {/* lazy bottom padding */}
             </span>
           ))
           .value()}
