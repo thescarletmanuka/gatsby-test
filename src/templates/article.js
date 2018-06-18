@@ -9,6 +9,8 @@ export const ArticleTemplate = ({
   content,
   contentComponent,
   title,
+  published,
+  edited,
 }) => {
   const PostContent = contentComponent || Content
 
@@ -21,7 +23,17 @@ export const ArticleTemplate = ({
             <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
               {title}
             </h1>
+            <div className="subtitle is-size-6 has-text-right">{published}</div>
             <PostContent content={content} />
+            <footer>
+              <br />
+              <div>
+                Arohanui,<br />
+                Heather<br />
+                {published}
+                <div className="has-text-right is-size-7" visible={!!edited}>Last updated: {edited}</div>
+              </div>
+            </footer>
           </div>
         </div>
       </div>
@@ -43,6 +55,8 @@ const Article = ({ data }) => {
       content={post.html}
       contentComponent={HTMLContent}
       title={post.frontmatter.title}
+      published={post.frontmatter.published}
+      edited={post.frontmatter.edited}
     />
   )
 }
@@ -61,7 +75,8 @@ export const pageQuery = graphql`
       id
       html
       frontmatter {
-        edited(formatString: "MMMM DD, YYYY")
+        published(formatString: "MMMM, YYYY")
+        edited(formatString: "dddd, MMMM DD, YYYY")
         title
       }
     }

@@ -35,8 +35,3 @@ I know that, in my suffering, God is with me.
 <br />
 
 And lastly, I have hope that this illness is not forever. One day – maybe in this life, maybe after I am dead – I will again have a body that works. I eagerly look forward to that day!
-
-Arohanui, \
-Heather \
-April 2014
-

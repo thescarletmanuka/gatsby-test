@@ -12,12 +12,12 @@ collections:
     label_singular: "Article"
     folder: "src/pages/writings"
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{slug}}"
     fields:
       - {label: "Template", name: "templateKey", widget: "hidden", default: "article"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "published", widget: "datetime"}
-      - {label: "Edit Date", name: "edited", widget: "datetime"}
+      - {label: "Edit Date", name: "edited", widget: "datetime", required: false}
       - {label: "Description", name: "description", widget: "text", required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 

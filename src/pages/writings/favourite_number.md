@@ -11,7 +11,3 @@ These numbers keep me as healthy as I can be, but they also encase my life in a 
 For the last few weeks my 'fun thing' has been learning how to marble paper. For much of last year it was figuring out how to make [fair trade white chocolate](https://blog.puriri.nz/search/label/fair%20trade%20white%20chocolate). Sometimes it's simply playing a board game. A few weeks back it was [a trip to our local Serbian Orthodox Church's monthly bake sale](https://blog.puriri.nz/2016/04/a-short-visit-to-serbia.html). That one was particularly special and I'm so glad we went, even though it was pretty tiring. Not only did we purchase quantities of delicious food but, when I expressed an interest, the ladies there were delighted to show me around their church and explain it all to me. By the time we left, I felt like I'd had a brief visit to Serbia! It gives me such a lift to have more variety in my life.
 
 So, this new number has become my favourite number. Making sure I do at least _one_ fun thing every week helps gives me a hope that life can be enjoyable, even though I'm very ill.
-
-Arohanui, \
-Heather \
-May 2016
