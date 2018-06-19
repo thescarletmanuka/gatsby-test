@@ -60,7 +60,6 @@ export default class ArticleIndexPage extends React.Component {
                     <span> &bull; </span>
                     <small>{article.frontmatter.pub_month}</small>
                     {article.frontmatter.description && (<div>
-                    <br />
                     <span className="content is-small is-italic">
                       ({article.frontmatter.description})
                     </span></div>
