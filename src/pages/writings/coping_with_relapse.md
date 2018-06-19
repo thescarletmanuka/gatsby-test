@@ -1,0 +1,21 @@
+---
+templateKey: article
+title: Coping with Relapse
+published: 2006-11-10T00:00:00.000Z
+edited: 2010-07-08T00:00:00.000Z
+---
+Back in March of this year, something miraculous happened to me: one day, suddenly, sometime in the afternoon, I got dramatically better. So much better, that a few days later I dared to begin to suspect that I had fully recovered.
+
+There followed a glorious and terrifying three months as my world expanded, then a sickening disappointment when I caught a cold and my energy continued to drain away long after the cold symptoms had passed. I was experiencing my first relapse. I don't think I initially handled it very well, and, now in November, there has still been no recovery of energy levels, but I've learnt a few things about coping with the new situation. Here are the main ones.
+
+1. Accept what has happened and stop fighting. It took me some months to be able to bear to take this step, but I have had to learn that over-activity, however appealing or essential the activity in question seems to be, only makes me sick.
+
+2. Establish a new routine. Whilst I was stronger, I was staying up for periods of four or even five hours at a stretch, and mostly just doing things when I felt like it. Carrying on with this policy when my energy was greatly diminished led to exhaustion, labile emotions, and failing to manage the basics like regularly showering or cleaning my teeth. I now have a routine to which I strive to adhere whereby in my first activity period of the morning I get the essentials done, leaving more pleasurable activities and those that could be completed by someone else to the lunchtime and afternoon activity slots. I have also found a simple timer with an alarm to be helpful with encouraging me to stick to this routine. I set it to go off when my daily schedule says I need to return to bed, so that I'm less likely to continue with what I'm doing until it's finished and simply wear myself out.
+
+3. Re-learn how to rest. The reduction in my energy has been frustrating, so I've needed to develop strategies to enable me to rest. Otherwise I can get so agitated lying in bed that I simply have to get up and do something, no matter how much my body protests! For me, doing a calming activity as soon as I first lie down helps me to wind down, so I will often begin by playing something mindless like Solitaire on the laptop. If I get agitated, I'll also often put on either soothing music or a really interesting story. The music calms me and the story distracts me from thinking about all the things that need to get done.
+
+4. Use activity periods for the good of my body, as well as my mind. For me, the main thing this has meant has been shortening my activity periods, but being more active in them. Initially I was focusing, once the basics were taken care of, on sewing Christmas presents and writing emails - both very sedentary activities. This meant that I was physically almost completely inactive, and, with the help of my doctor, I eventually made the connection between this and the hugely painful buildup of gas I was getting in my gut. I need to move if I want my bowels to move! I have now tried to include some significant physical activity into at least one of my activity periods as well as slipping in small 'bites' of activity (such as pacing a little whilst waiting for the jug to boil) into the rest of my day.
+
+Hope those tips are of use to someone!
+
+**Note** - after my sudden recovery March 06 it took me a full year to regain my contentment. I was well about two months (which was often frightening), getting sicker about two months (which was gutting) and then fighting, uncertain and disordered for most of the rest of the year. I got my contentment back at about the same time as I got a good routine going again, although I don't know which enabled which. The routine keeps my energy levels on a more even keel. I have now settled in to having three activity periods per day, one of which is just mooching around, one of which is a set activity and one of which is craft or cooking or gardening or making a salad. It takes a lot of planning to get stuff done, choosing and prioritising the free activity. One activity period per day must involve 30 min. outside, and one must involve physical moving around. - May 2007

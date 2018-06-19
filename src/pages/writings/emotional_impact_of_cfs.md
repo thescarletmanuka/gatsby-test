@@ -1,0 +1,18 @@
+---
+templateKey: article
+title: Emotional Impact of CFS
+published: 2007-10-12T00:00:00.000Z
+edited: 2010-07-08T00:00:00.000Z
+---
+Most of the time, ME/CFS has no major emotional impact on me other than making me a bit fragile. It has become my 'normal life', and I live it just like I lived my previous normal life - with ups and downs but generally positively overall. If anything, I'm probably a little more positive overall than I used to be, perhaps because I am paradoxically now living a life more of my choosing than before as the daily choices I now make are so stark. That said, I do require antidepressant medication to stay on the level - the one time I tried to come off them I spent a lot of time silently crying for no particular reason, and even with them when I get extremely tired or and when my condition changes substantially I lose my emotional stability.
+
+When I get very tired, I feel like I am bad, and I want to hurt myself and get cross with my husband for bothering to love someone bad like me. I don't know why this is, but I think it's linked to feeling useless, as at these times I can often barely roll over in bed.
+
+Similarly, I get acutely disappointed in myself when I have knowingly done more than I could cope with - berating myself for the foolishness that has then resulted in the frustration of extreme weakness. To avoid this I also often have to fight other people's unrealistic expectations of me. I wish I didn't have to do this - perpetually pouring cold water on other people's hopes is hardly fun - but I have to be firm and believe that I know what my limits are, even if the other person thinks I must be underestimating myself.
+
+In addition to being careful of expending physical energy, I also need to carefully manage my emotional energy. I'm much more empathetic than before, and get scared or upset myself by hearing of other people's frightening and tragic situations. To manage this, I try to completely avoid fiction that is largely scary, sad or conflictual so that I have energy left to deal with real situations that are fraught. I also frequently turn off news and documentary programs that are too upseting, and turn my sadness at what I do hear into prayer for these real people in their hard situations.
+
+Finally, any change to my condition is unsettling. Last year I dramatically improved (an improvement that only lasted a few months), and I was surprised how terrified I became. Alongside the happiness at my new abilities, I was asking how would I cope with the strange new world out there? Would the people in it like me? Maybe I really was lazy, and now that I was no longer sick how would I cope with getting a job? Over this time when my health improved then gradually drifted back to (nearly) where it started I was on quite an emotional roller coaster. It was a full year after the improvement began (and maybe five months after my health had re-stabilised) that I suddenly realised that I had my contentment back again. I don't really know what brought it back, but I think that settling back into a routine after my body was became predictable again was very significant. Since this experience I struggle with fear of the future when I catch a cold or have any other experience that may lead to a worsening of my condition, but I'm secretly a little nervous of significant improvement, too.
+
+And yet, much of my life is characterised by delight. Joy at manging to do something 'my own self'. Delight in the spring flowers in the garden. Pleasure in yummy food. Fascination following the lives of the insects in my bedroom. CFS/ME has shrunk my world right down, meaning that I focus on the minutiae of my experiences and surroundings, and there is much joy to be found there.
+
