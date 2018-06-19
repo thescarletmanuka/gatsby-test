@@ -59,13 +59,12 @@ export default class ArticleIndexPage extends React.Component {
                     </Link>
                     <span> &bull; </span>
                     <small>{article.frontmatter.pub_month}</small>
+                    {article.frontmatter.description && (<div>
                     <br />
-                    <span
-                      hidden={!article.frontmatter.description}
-                      className="content is-small is-italic"
-                    >
+                    <span className="content is-small is-italic">
                       ({article.frontmatter.description})
-                    </span>
+                    </span></div>
+                    )}
                   </dd>
                 ))}
               </dl>
@@ -91,6 +90,7 @@ export const pageQuery = graphql`
   query ArticleListQuery {
     allMarkdownRemark(
       filter: { frontmatter: { templateKey: { eq: "article" } } }
+      sort: { order: DESC, fields: [frontmatter___published] }
     ) {
       edges {
         node {
