@@ -1,6 +1,6 @@
 ---
 templateKey: article
-title: Christmas presents
+title: Christmas Presents
 published: 2008-12-12T00:00:00.000Z
 edited: 2010-07-08T00:00:00.000Z
 description: things to make that are within my capacity

@@ -30,8 +30,7 @@ export const ArticleTemplate = ({
               <div>
                 Arohanui,<br />
                 Heather<br />
-                {published}
-                <div className="has-text-right is-size-7" visible={!!edited}>Last updated: {edited}</div>
+                <div className="has-text-right is-size-7" hidden={!edited}>Last updated: {edited}</div>
               </div>
             </footer>
           </div>
