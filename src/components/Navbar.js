@@ -8,9 +8,9 @@ const Navbar = () => (
         <Link className="navbar-item" to="/">
           Home
         </Link>
-        <Link className="navbar-item" to="https://blog.puriri.nz/">
+        <a className="navbar-item" href="https://blog.puriri.nz/">
           Blog
-        </Link>
+        </a>
         <Link className="navbar-item" to="/writings/">
           Articles
         </Link>

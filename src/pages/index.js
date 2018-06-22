@@ -16,9 +16,9 @@ export default class IndexPage extends React.Component {
               <div className="tile is-ancestor is-vertical is-size-4">
                 <div className="tile is-parent">
                   <div className="tile is-child">
-                    <Link to="https://blog.puriri.nz/">
+                    <a href="https://blog.puriri.nz/">
                       Our Joint Blog
-                    </Link>
+                    </a>
                   </div>
                   <div className="tile is-child">
                     <Link to="/recipes/">
