@@ -1,9 +1,8 @@
 import React from 'react'
 import PropTypes from 'prop-types'
-import { kebabCase } from 'lodash'
 import Helmet from 'react-helmet'
-import Link from 'gatsby-link'
 import Content, { HTMLContent } from '../components/Content'
+import Navbar from '../components/Navbar';
 
 export const ArticleTemplate = ({
   content,
@@ -15,28 +14,31 @@ export const ArticleTemplate = ({
   const PostContent = contentComponent || Content
 
   return (
-    <section className="section">
-      <Helmet title={`${title}`} />
-      <div className="container content">
-        <div className="columns">
-          <div className="column is-10 is-offset-1">
-            <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
-              {title}
-            </h1>
-            <div className="subtitle is-size-6 has-text-right">{published}</div>
-            <PostContent content={content} />
-            <footer>
-              <br />
-              <div>
-                Arohanui,<br />
-                Heather<br />
-                <div className="has-text-right is-size-7" hidden={!edited}>Last updated: {edited}</div>
-              </div>
-            </footer>
+    <div>
+      <Navbar />
+      <section className="section is-outer-section">
+        <Helmet title={`${title}`} />
+        <div className="container content">
+          <div className="columns">
+            <div className="column is-10 is-offset-1">
+              <h1 className="title is-size-2 has-text-weight-bold is-bold-light">
+                {title}
+              </h1>
+              <div className="subtitle is-size-6 has-text-right">{published}</div>
+              <PostContent content={content} />
+              <footer>
+                <br />
+                <div>
+                  Arohanui,<br />
+                  Heather<br />
+                  <div className="has-text-right is-size-7" hidden={!edited}>Last updated: {edited}</div>
+                </div>
+              </footer>
+            </div>
           </div>
         </div>
-      </div>
-    </section>
+      </section>
+    </div>
   )
 }
 

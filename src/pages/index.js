@@ -4,71 +4,46 @@ import Link from 'gatsby-link'
 
 export default class IndexPage extends React.Component {
   render() {
-    const { data } = this.props
-    const { edges: posts } = data.allMarkdownRemark
-
     return (
-      <section className="section">
-        <div className="container">
-          <div className="content">
-            <h1 className="has-text-weight-bold is-size-2">Latest Stories</h1>
-          </div>
-          {posts
-            .filter(post => post.node.frontmatter.templateKey === 'blog-post')
-            .map(({ node: post }) => (
-              <div
-                className="content"
-                style={{ border: '1px solid #eaecee', padding: '2em 4em' }}
-                key={post.id}
-              >
-                <p>
-                  <Link className="has-text-primary" to={post.fields.slug}>
-                    {post.frontmatter.title}
-                  </Link>
-                  <span> &bull; </span>
-                  <small>{post.frontmatter.date}</small>
-                </p>
-                <p>
-                  {post.excerpt}
-                  <br />
-                  <br />
-                  <Link className="button is-small" to={post.fields.slug}>
-                    Keep Reading →
-                  </Link>
-                </p>
+      <section className="section is-outer-section">
+        <div className="container has-text-centered">
+          <div className="columns">
+            <div className="column is-6 is-offset-3">
+              <div className="content">
+                <h1 className="has-text-weight-bold is-size-2">Welcome</h1>
               </div>
-            ))}
+              <img src="/img/m&h_nov_2016.jpg" />
+              <div className="tile is-ancestor is-vertical is-size-4">
+                <div className="tile is-parent">
+                  <div className="tile is-child">
+                    <Link to="https://blog.puriri.nz/">
+                      Our Joint Blog
+                    </Link>
+                  </div>
+                  <div className="tile is-child">
+                    <Link to="/recipes/">
+                      Favourite Recipes
+                    </Link>
+                  </div>
+                </div>
+                <div className="tile is-parent">
+                  <div className="tile is-child">
+                    <Link to="/writings/">
+                      Heather's Writings
+                    </Link>
+                  </div>
+                  <div className="tile is-child">
+                    <Link to="/">
+                      Carbon Auditing
+                    </Link>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
       </section>
     )
   }
 }
 
-IndexPage.propTypes = {
-  data: PropTypes.shape({
-    allMarkdownRemark: PropTypes.shape({
-      edges: PropTypes.array,
-    }),
-  }),
-}
-
-export const pageQuery = graphql`
-  query IndexQuery {
-    allMarkdownRemark(sort: { order: DESC, fields: [frontmatter___date] }) {
-      edges {
-        node {
-          excerpt(pruneLength: 400)
-          id
-          fields {
-            slug
-          }
-          frontmatter {
-            title
-            templateKey
-            date(formatString: "MMMM DD, YYYY")
-          }
-        }
-      }
-    }
-  }
-`
