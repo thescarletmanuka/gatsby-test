@@ -20,11 +20,10 @@ export default class Justice2018Page extends React.Component {
                 </div>
                 <div class="card column is-9 is-offset-1">
                   <div class="card-content">
-                    <div class="title is-size-4">
+                    <div class="title is-size-4 has-text-weight-normal">
                       “the dominant things we buy that are 
                       likely to have been produced by slave labour are 
-                      computers and mobile phones, clothing, fish, cocoa
-                      and sugar.”
+                      computers and mobile phones, clothing, <b>fish</b>, <b>cocoa</b> and <b>sugar</b>.”
                     </div>
                     <div class="subtitle is-size-6 has-text-right">
                       <a href="https://www.globalslaveryindex.org/2018/findings/highlights/">Global Slavery Index 2018</a> (<a href="https://www.globalslaveryindex.org/resources/downloads/">pdf p. iv</a>)
@@ -33,6 +32,16 @@ export default class Justice2018Page extends React.Component {
                 </div>
                 
                 <div class="section content">
+                  <div class="tabs">
+                    <ul>
+                      <li class="is-active"><a>Fish</a></li>
+                      <li><a>Cocoa</a></li>
+                      <li><a>Sugar</a></li>
+                    </ul>
+                  </div>
+
+                  Note that the tabs don't work yet.
+
                   <h2>Fish</h2>
                   <ul>
                     <li>No certification at consumer level</li>
