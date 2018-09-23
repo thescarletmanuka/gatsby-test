@@ -32,47 +32,31 @@ export default class Justice2018Page extends React.Component {
                   </div>
                 </div>
                 
-                <div class="section">
-                  <div class="title">
-                    Fish
-                  </div>
-                  <div class="content">
-                    <ul>
-                      <li>No certification at consumer level</li>
-                      <li><a href="https://blog.puriri.nz/2018/05/buying-fish-for-human-rights-salmon.html">Buying fish for human rights: salmon</a></li>
-                      <li><a href="https://blog.puriri.nz/2018/07/buying-fish-for-human-rights-tinned.html">Buying fish for human rights: tinned tuna, sardines and mackerel</a></li>
-                      <li><a href="https://blog.puriri.nz/2018/09/buying-fish-for-human-rights-pet-food.html">Buying fish for human rights: pet food</a></li>
-                      <li></li>
-                    </ul>
-                  </div>
-                </div>
+                <div class="section content">
+                  <h2>Fish</h2>
+                  <ul>
+                    <li>No certification at consumer level</li>
+                    <li><a href="https://blog.puriri.nz/2018/05/buying-fish-for-human-rights-salmon.html">Buying fish for human rights: salmon</a></li>
+                    <li><a href="https://blog.puriri.nz/2018/07/buying-fish-for-human-rights-tinned.html">Buying fish for human rights: tinned tuna, sardines and mackerel</a></li>
+                    <li><a href="https://blog.puriri.nz/2018/09/buying-fish-for-human-rights-pet-food.html">Buying fish for human rights: pet food</a></li>
+                    <li></li>
+                  </ul>
 
-                <div class="section">
-                  <div class="title">
-                    Cocoa
-                  </div>
-                  <div class="content">
-                    <ul>
-                      <li>Certifications:  UTZ, Fair Trade (2 variants)</li>
-                      <li><a href="https://blog.puriri.nz/2017/02/how-to-choose-ethical-chocolate.html">How to buy chocolate without supporting abuse of cocoa growers</a></li>
-                      <li><a href="https://blog.puriri.nz/2016/06/fairly-traded-cocoa-products-in-new.html">Fairly traded cocoa products in New Zealand</a></li>
-                      <li><a href="https://blog.puriri.nz/2016/02/utz-certification.html">UTZ certification</a></li>
-                      <li></li>
-                    </ul>
-                  </div>
-                </div>
+                  <h2>Cocoa</h2>
+                  <ul>
+                    <li>Certifications:  UTZ, Fair Trade (2 variants)</li>
+                    <li><a href="https://blog.puriri.nz/2017/02/how-to-choose-ethical-chocolate.html">How to buy chocolate without supporting abuse of cocoa growers</a></li>
+                    <li><a href="https://blog.puriri.nz/2016/06/fairly-traded-cocoa-products-in-new.html">Fairly traded cocoa products in New Zealand</a></li>
+                    <li><a href="https://blog.puriri.nz/2016/02/utz-certification.html">UTZ certification</a></li>
+                    <li></li>
+                  </ul>
 
-                <div class="section">
-                  <div class="title">
-                    Sugar
-                  </div>
-                  <div class="content">
-                    <ul>
-                      <li>Bon Sucro</li>
-                      <li><a href="https://blog.puriri.nz/2018/07/slave-free-sugar.html">Slave free sugar</a></li>
-                      <li></li>
-                    </ul>
-                  </div>
+                  <h2>Sugar</h2>
+                  <ul>
+                    <li>Certification: Bon Sucro</li>
+                    <li><a href="https://blog.puriri.nz/2018/07/slave-free-sugar.html">Slave free sugar</a></li>
+                    <li></li>
+                  </ul>
                 </div>
 
               </div>
